@@ -11,6 +11,7 @@ The API will allow you to create/update/delete/get a profile with a username and
 
 ## Table of Contents
 -[Installation]
+
 -[Usage]
 
 ## Installation
